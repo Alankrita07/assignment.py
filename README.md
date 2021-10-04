@@ -12,7 +12,9 @@ For example: empList = ["Ashwin", "Rachit", "Sanjana", "David", "Komal"]
             
             Input2: "Harshil"
             Output2: "Employee is not present"
- answer is 
+ answer or code
+ 
+ 
  l=[]
 #r=int(input('Enter the number of employee:'))
 while(1):
